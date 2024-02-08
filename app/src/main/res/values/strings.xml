@@ -2,4 +2,5 @@
     <string name="app_name">WorkshopComposePractice</string>
     <string name="title_activity_row_colomn">RowColomnActivity</string>
     <string name="title_activity_modifier">ModifierActivity</string>
+    <string name="title_activity_image_card">ImageCardActivity</string>
 </resources>
