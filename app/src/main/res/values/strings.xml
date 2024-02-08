@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">WorkshopComposePractice</string>
     <string name="title_activity_row_colomn">RowColomnActivity</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
 </resources>
