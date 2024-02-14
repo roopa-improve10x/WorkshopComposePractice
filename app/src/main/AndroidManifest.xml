@@ -13,9 +13,9 @@
         android:theme="@style/Theme.WorkshopComposePractice"
         tools:targetApi="31">
         <activity
-            android:name=".ImageCardActivity"
+            android:name=".StylingTextActivity"
             android:exported="true"
-            android:label="@string/title_activity_image_card"
+            android:label="@string/title_activity_styling_text"
             android:theme="@style/Theme.WorkshopComposePractice" >
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
@@ -24,15 +24,20 @@
         </intent-filter>
         </activity>
         <activity
+            android:name=".ImageCardActivity"
+            android:exported="true"
+            android:label="@string/title_activity_image_card"
+            android:theme="@style/Theme.WorkshopComposePractice"/>
+        <activity
             android:name=".ModifierActivity"
             android:exported="true"
             android:label="@string/title_activity_modifier"
-            android:theme="@style/Theme.WorkshopComposePractice"/>
+            android:theme="@style/Theme.WorkshopComposePractice" />
         <activity
             android:name=".RowColomnActivity"
             android:exported="true"
             android:label="@string/title_activity_row_colomn"
-            android:theme="@style/Theme.WorkshopComposePractice"/>
+            android:theme="@style/Theme.WorkshopComposePractice" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
